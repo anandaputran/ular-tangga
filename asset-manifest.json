@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ular-tangga/static/css/main.409215d6.css",
-    "main.js": "/ular-tangga/static/js/main.d208037c.js",
+    "main.js": "/ular-tangga/static/js/main.9673fa21.js",
     "index.html": "/ular-tangga/index.html",
     "main.409215d6.css.map": "/ular-tangga/static/css/main.409215d6.css.map",
-    "main.d208037c.js.map": "/ular-tangga/static/js/main.d208037c.js.map"
+    "main.9673fa21.js.map": "/ular-tangga/static/js/main.9673fa21.js.map"
   },
   "entrypoints": [
     "static/css/main.409215d6.css",
-    "static/js/main.d208037c.js"
+    "static/js/main.9673fa21.js"
   ]
 }
